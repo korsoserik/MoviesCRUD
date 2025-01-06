@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "year": "2001",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": "Action",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss"
+    },
+    {
+      "id": "3",
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "actors": "Christian Bale, Heath Ledger, Aaron Eckhart"
+    },
+    {
+      "id": "5",
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "genre": "Crime",
+      "director": "Quentin Tarantino",
+      "actors": "John Travolta, Uma Thurman, Samuel L. Jackson"
+    },
+    {
+      "id": "5abe",
+      "title": "Miau",
+      "year": "2000",
+      "genre": "horror",
+      "director": "wuuf",
+      "actors": "asd"
+    },
+    {
+      "id": "7f46",
+      "title": "dsd",
+      "year": "2000",
+      "genre": "sds",
+      "director": "qw",
+      "actors": "qwq"
+    }
+  ]
+}
